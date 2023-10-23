@@ -1,0 +1,12 @@
+.card {
+    margin-top: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.left-box {
+    margin-left: 60px;
+}
+
+.right-box {
+    margin-right: 60px;
+}
